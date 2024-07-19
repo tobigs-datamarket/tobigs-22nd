@@ -1,0 +1,66 @@
+[33mcommit b6bb8f70f2d2e30f331702089c62695ca95863c6[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32m김지은[m[33m)[m
+Author: 김지은 <kimje0211@gmail.com>
+Date:   Fri Jul 19 23:11:48 2024 +0900
+
+    README.md 파일 수정 진행
+
+[33mcommit a7e6411e2b507f780dd2d5206a2154d4e24dc55d[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m, [m[1;32mfeature/김지은[m[33m)[m
+Author: Tobigs <59883115+tobigs-datamarket@users.noreply.github.com>
+Date:   Fri Jul 19 00:02:42 2024 +0900
+
+    Delete Week1/기초통계(1)/김지은 directory
+
+[33mcommit 0df0f7b30813129bb10466c7590d1192a64f5c28[m
+Merge: e970959 fa6ed39
+Author: Tobigs <59883115+tobigs-datamarket@users.noreply.github.com>
+Date:   Fri Jul 19 00:01:57 2024 +0900
+
+    Merge pull request #3 from Ji-eun-Kim/김지은
+    
+    김지은(21기) - 1주차 과제
+
+[33mcommit fa6ed3958e67c278b77a49fcc26fcc510a3d908c[m
+Author: Jieun Kim <124686375+Ji-eun-Kim@users.noreply.github.com>
+Date:   Thu Jul 18 23:56:48 2024 +0900
+
+    Create README.md
+
+[33mcommit e970959259eaa9e12e798fdb9f1d6bdf99996dff[m
+Author: tobigs-datamarket <datamarket.tobigs@gmail.com>
+Date:   Thu Jul 18 22:29:44 2024 +0900
+
+    주차 별 파일 추가
+
+[33mcommit d3d03bb3522672e3da9d3d682f42ebc6ead2830f[m
+Author: tobigs-datamarket <datamarket.tobigs@gmail.com>
+Date:   Thu Jul 18 22:12:58 2024 +0900
+
+    init folder commit
+
+[33mcommit 2c66b73451c49d87857ffc2bb189ae054ebd46c6[m
+Author: Tobigs <59883115+tobigs-datamarket@users.noreply.github.com>
+Date:   Thu Jul 18 21:54:44 2024 +0900
+
+    Update README.md
+
+[33mcommit e0be0e9a2a16480207bcdf39303bc6001cf69a47[m
+Author: tobigs-datamarket <datamarket.tobigs@gmail.com>
+Date:   Tue Jul 16 22:32:45 2024 +0900
+
+    chore: 과제 제출 PR 템플릿 추가
+    
+    이름, 기수, 주차, 제출 전 확인사항 추가
+
+[33mcommit 1770e55312f48f55541245f271aeb8ec2ddab87a[m
+Author: tobigs-datamarket <datamarket.tobigs@gmail.com>
+Date:   Tue Jul 16 21:51:05 2024 +0900
+
+    chore: .gitignore 파일 추가
+    
+    Windows, macOS, Python, Jupyter Notebook, VSCode, PyCharm, Microsoft Office 및 데이터와 모델 파일 제외 규칙 추가
+
+[33mcommit 62ded0aa12a717b631e9bbbcd507ad8c8ca1f8da[m
+Author: tobigs-datamarket <datamarket.tobigs@gmail.com>
+Date:   Tue Jul 16 21:37:30 2024 +0900
+
+    initial commit
