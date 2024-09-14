@@ -1,6 +1,7 @@
 # Created by https://www.toptal.com/developers/gitignore/api/windows,macos,python,jupyternotebooks,visualstudiocode,pycharm,vim,emacs,microsoftoffice
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,macos,python,jupyternotebooks,visualstudiocode,pycharm,vim,emacs,microsoftoffice
-
+발표자료/
+선형대수학 소모임/
 ### Emacs ###
 # -*- mode: gitignore; -*-
 *~
