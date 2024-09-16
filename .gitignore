@@ -3,6 +3,8 @@
 발표자료/
 선형대수학 소모임/
 **/.idea/
+.gitignore
+README.md
 ### Emacs ###
 # -*- mode: gitignore; -*-
 *~
